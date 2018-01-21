@@ -21,13 +21,13 @@ You don't have to use exactly the items linked here, it's just for reference.
 * Push Button
 * 18650 Battery with holder and JST2.0 connector
 * Resistors:
-    * 1x 47
-    * 1x 200
-    * 2x 470
-    * 1x 1k
-    * 2x 10k
-    * 2x 100k
-    * 2x 220k
+    * 1x 47&Omega;
+    * 1x 200&Omega;
+    * 2x 470&Omega;
+    * 1x 1k&Omega;
+    * 2x 10k&Omega;
+    * 2x 100k&Omega;
+    * 2x 220k&Omega;
 
 
 ## Wiring
